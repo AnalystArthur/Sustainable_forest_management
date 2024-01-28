@@ -34,5 +34,7 @@ Technology can play a crucial role in aiding forest management in various ways. 
 
 9. **Blockchain Technology:**
    - Blockchain can be employed to create transparent and secure systems for tracking the origin and movement of timber products, reducing the risk of illegal logging.
+10. testing
+11. check if successful
 
 By integrating these technologies, forest managers can make more informed decisions, respond promptly to threats, and implement sustainable practices for the long-term conservation of forests.
